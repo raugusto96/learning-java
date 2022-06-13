@@ -1,3 +1,5 @@
+package Estrutura_sequencial;
+
 import java.util.Scanner;
 
 public class Exercicio3 {
